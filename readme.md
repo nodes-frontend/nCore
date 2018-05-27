@@ -1,4 +1,4 @@
-# nCore.nLogger
+# ⛔️ [DEPRECATED] nCore.nLogger
 
 A module for logging functionality. This is not for production.
 Please note that we do not disable console methods outside of our angular application scope.
